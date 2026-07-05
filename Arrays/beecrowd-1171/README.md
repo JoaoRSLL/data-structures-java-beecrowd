@@ -1,8 +1,5 @@
 # Beecrowd 1171 — Contando Números
 
-**Estrutura de dados:** Array
-**Dificuldade:** Iniciante
-
 ## Problema
 Ler N números inteiros e informar quantas vezes cada valor distinto aparece
 na entrada, exibindo o resultado em ordem crescente de valor.
