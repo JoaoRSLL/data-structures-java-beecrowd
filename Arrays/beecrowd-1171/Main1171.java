@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Main {
+public class Main1171 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
