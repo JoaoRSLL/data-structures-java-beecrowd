@@ -19,7 +19,7 @@ código-fonte e um README explicando a lógica da solução.
 
 ## Progresso
 
-- [ ] Arrays
+- [X] Arrays
 - [ ] Listas Encadeadas
 - [ ] Pilhas e Filas
 - [ ] Recursão
